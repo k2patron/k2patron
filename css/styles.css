@@ -15,7 +15,7 @@ body{
 .header{
 	position: absolute; /* Абсолютное позиционирование */
 	top: 5px;
-	left: 50%; /* Положение слоя от левого края */
+	left: 40%; /* Положение слоя от левого края было 50 */
 	margin-left:-360px;
 	min-width: 900px;
 	
@@ -40,7 +40,7 @@ body{
 	background-color:#98bf21;
 	text-align:center;
 	text-shadow: 1px 1px 0px black;
-	padding: 30px 0; /* Изначально было 15 */
+	padding: 15px 0; /* Изначально было 15 */
 	text-decoration:none;
 	text-transform:uppercase;
 }
