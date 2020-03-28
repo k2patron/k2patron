@@ -34,13 +34,13 @@ body{
 .nav > li > a {
 	display:inline-block;
 	border-right: solid 1px #018B06;
-	width:180px;
+	width:240px; /* Изначально было 180 */
 	font: bold 18px sans-serif;
 	color:#FFFFFF;
 	background-color:#98bf21;
 	text-align:center;
 	text-shadow: 1px 1px 0px black;
-	padding: 15px 0; /* Изначально было 15 */
+	padding: 15px 0; 
 	text-decoration:none;
 	text-transform:uppercase;
 }
