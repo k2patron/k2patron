@@ -1,1 +1,0 @@
-<div class="speedbar lines">{speedbar}</div>
