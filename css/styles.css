@@ -40,7 +40,7 @@ body{
 	background-color:#98bf21;
 	text-align:center;
 	text-shadow: 1px 1px 0px black;
-	padding: 15px 0;
+	padding: 30px 0; /* Изначально было 15 */
 	text-decoration:none;
 	text-transform:uppercase;
 }
